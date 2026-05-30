@@ -2,6 +2,10 @@
 
 Flashes a brief colored overlay after each Anki review answer.
 
+[![CI](https://github.com/d4c4n/anki-flash-feedback/actions/workflows/ci.yml/badge.svg)](https://github.com/d4c4n/anki-flash-feedback/actions/workflows/ci.yml)
+[![AnkiWeb](https://img.shields.io/badge/AnkiWeb-696740575-blue)](https://ankiweb.net/shared/info/696740575)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
 ![demo](docs/demo.gif)
 
 ## Features
@@ -15,7 +19,7 @@ Flashes a brief colored overlay after each Anki review answer.
 
 ### From AnkiWeb (recommended)
 
-Tools → Add-ons → Get Add-ons → paste code `<ANKIWEB_ID>`
+Tools → Add-ons → Get Add-ons → paste code `696740575`
 
 ### Manual
 
