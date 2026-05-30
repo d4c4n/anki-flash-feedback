@@ -1,0 +1,12 @@
+{
+    "enabled": true,
+    "target_opacity": 0.18,
+    "hold_ms": 240,
+    "fade_ms": 140,
+    "eases": {
+        "1": {"enabled": true, "color": "#ff3b30"},
+        "2": {"enabled": true, "color": "#ff9500"},
+        "3": {"enabled": true, "color": "#34c759"},
+        "4": {"enabled": true, "color": "#0a84ff"}
+    }
+}
